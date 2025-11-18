@@ -28,7 +28,9 @@ This portfolio represents my journey from university learning to professional so
 - Participated in the development of numerous software projects throughout the academic years.  
 - Won a **special prize** at the **Fourth-Year Project Show**.  
 - Developed a **Final Year Project** titled **"Sale Management System for a Pharmaceutical Shop"**.  
-  - Though it was not community-focused and did not win an award, it was **highly praised by a panel of six evaluators** for its functionality and structure.  
+  - Though it was not community-focused and did not win an award, it was **highly praised by a panel of six evaluators** for its functionality and structure. 
+- “Additionally, the final project was indexed in Google Scholar.” 
+
 ---
 
 ## 📜 Certifications
