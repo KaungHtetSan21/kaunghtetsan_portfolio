@@ -3,7 +3,7 @@
 ## 👋 About Me
 Hi! I'm **Kaung Htet San**, a Computer Science graduate from the **University of Computer Studies, Hinthada**.  
 I’m passionate about **Python, Django**, and creating efficient backend systems that connect design and logic seamlessly.  
-This portfolio project represents my journey from university learning to professional software development readiness.
+This portfolio represents my journey from university learning to professional software development readiness.
 
 ---
 
@@ -29,8 +29,6 @@ This portfolio project represents my journey from university learning to profess
 - Won a **special prize** at the **Fourth-Year Project Show**.  
 - Developed a **Final Year Project** titled **"Sale Management System for a Pharmaceutical Shop"**.  
   - Though it was not community-focused and did not win an award, it was **highly praised by a panel of six evaluators** for its functionality and structure.  
-- Achieved a **class rank of 49 out of 68 students**.
-
 ---
 
 ## 📜 Certifications
