@@ -95,8 +95,8 @@ Read / Unread toggle
 ##⚙️ How to Run (Development Setup)
 
 # Clone the project
-git clone https://github.com/kaunghtetsan/django-pos-online-fifo.git
-cd django-pos-online-fifo
+https://github.com/KaungHtetSan21/Internship_Final_Project.git
+cd Internship_Final_Project
 
 # Create virtual environment
 python -m venv venv
@@ -119,4 +119,10 @@ python manage.py runserver
 ---
 
 ```markdown
-![Dashboard](../assets/screenshots/pos_dashboard.png)
+![Landing_Page](..\assets\screenshots\landing_Page.png)
+![Pharmacist_dashboard1](..\assets\screenshots\pharmacist_dashboard 1.png)
+![Pharmacist_dashboard2](..\assets\screenshots\pharmacist_dashboard 2.png)
+![Pos_order(in-store)](..\assets\screenshots\pos_order (in-store).png)
+![Inventory_list](..\assets\screenshots\inventory_list.png)
+![Report_excel](..\assets\screenshots\report_excel.png)
+![Customer_dashboard](..\assets\screenshots\customer_dashboard.png)

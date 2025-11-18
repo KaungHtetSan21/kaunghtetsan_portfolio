@@ -1,4 +1,4 @@
-# 💼 Kaung Htet San — Portfolio Project
+# 💼 Kaung Htet San — Portfolio
 
 ## 👋 About Me
 Hi! I'm **Kaung Htet San**, a Computer Science graduate from the **University of Computer Studies, Hinthada**.  
@@ -66,8 +66,8 @@ This repository demonstrates my skills in building a complete **Django-based man
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/<your_username>/<your_repo>.git
-cd <your_repo>
+https://github.com/KaungHtetSan21/Internship_Final_Project.git
+cd Internship_Final_Project
 python -m venv venv
 .\venv\Scripts\activate
 # Install dependencies (if needed)
@@ -80,7 +80,4 @@ python manage.py runserver
 📫 Contact
 
 Email: khtetsan399@gmail.com
-
-LinkedIn: Your LinkedIn Profile
-
 GitHub: https://github.com/KaungHtetSan21
