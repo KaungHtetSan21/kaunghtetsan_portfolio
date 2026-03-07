@@ -32,6 +32,15 @@ This portfolio represents my journey from university learning to professional so
 - “Additionally, the final project was indexed in Google Scholar.” 
 
 ---
+## 💼 Work Experiences
+Odoo Trainee & Developer — UMG Company (Nov 26 – Mar 5)
+- Conducted an in-depth study of the Odoo Framework, including its architecture, MVC pattern, and ORM (Object-Relational Mapping) methods, to gain proficiency in custom module development.
+
+- Applied this knowledge to develop a custom Stationery Management Project for UMG Company using Odoo.
+
+- The project streamlined the management of office supplies by systemizing inventory control, purchasing, and distribution processes, thereby supporting the company's operational efficiency.
+
+---
 
 ## 📜 Certifications
 Earned from **Realistic Infotech Group**, founded and led by *Dr. Mi Mi Nge*.
