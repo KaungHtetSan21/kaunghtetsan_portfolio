@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 Hi! I'm **Kaung Htet San**, a Computer Science graduate from the **University of Computer Studies, Hinthada**.  
-I’m passionate about **Python, Django**, and creating efficient backend systems that connect design and logic seamlessly.  
+I’m passionate about **Python, Django, Odoo**and creating efficient backend systems that connect design and logic seamlessly.  
 This portfolio represents my journey from university learning to professional software development readiness.
 
 ---
@@ -16,7 +16,8 @@ This portfolio represents my journey from university learning to professional so
 
 ## 🧠 Skills & Competencies
 - Python  
-- Django Framework  
+- Django Framework 
+- Odoo Framework 
 - Backend & Frontend Design  
 - Database Design & Management  
 - System Analysis  
